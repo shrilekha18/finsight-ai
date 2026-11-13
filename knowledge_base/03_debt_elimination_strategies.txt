@@ -1,0 +1,30 @@
+# FINANCIAL KNOWLEDGE BASE: DEBT ELIMINATION & CREDIT STRATEGIES
+
+## The Two Primary Debt Paydown Methodologies
+
+### 1. The Debt Avalanche Method (Mathematically Optimal)
+- How it works:
+  1. List all debts ordered by Annual Percentage Rate (APR) from highest interest rate to lowest interest rate, regardless of balance size.
+  2. Pay the minimum monthly payment on all debts to protect credit score and avoid late penalties.
+  3. Channel 100% of extra discretionary debt payoff funds directly into the balance with the single highest APR (typically credit cards carrying 20%-29% APR).
+  4. Once that debt is fully extinguished, roll the entire monthly payment forward into the next highest interest rate loan.
+- Benefits: Minimizes total interest paid over time, leading to the fastest mathematical debt freedom date. Recommended for analytical, disciplined savers.
+
+### 2. The Debt Snowball Method (Behavioral & Psychological Momentum)
+- How it works:
+  1. List all debts ordered by total outstanding balance from smallest balance to largest balance, regardless of APR.
+  2. Maintain minimum required payments on all debts.
+  3. Throw all extra debt paydown cash at the smallest outstanding balance until it reaches $0.
+  4. Celebrate the milestone and roll the entire cash commitment into the second-smallest debt.
+- Benefits: Produces rapid early psychological victories, building behavioral momentum and self-efficacy for borrowers who feel overwhelmed by multiple accounts.
+
+## Healthy Debt-to-Income (DTI) Benchmarks
+- Total Debt-to-Income Ratio = (Total Monthly Debt Payments / Gross Monthly Income) * 100
+- Under 20%: Excellent financial flexibility.
+- 20% to 35%: Healthy, standard consumer level.
+- 36% to 43%: Caution zone; mortgage lenders often require DTI <= 43% for qualified mortgages.
+- Above 43%: Severe debt burden; priority intervention required to curtail interest expenses.
+
+## Credit Card APR Hazard
+Consumer credit card APRs frequently range from 18% to 30%. Carrying revolving balances at these rates compounds exponentially against wealth accumulation. Paying off high-interest debt represents a guaranteed, risk-free, tax-free return equal to the loan's interest rate (e.g. paying off a 24% credit card equals an unbeatable guaranteed 24% return).
+

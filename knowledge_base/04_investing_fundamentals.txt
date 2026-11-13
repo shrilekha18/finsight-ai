@@ -1,0 +1,28 @@
+# FINANCIAL KNOWLEDGE BASE: INVESTING FUNDAMENTALS & ASSET ALLOCATION
+
+## The Order of Investment Operations (Financial Waterfall)
+To maximize compounding, tax efficiency, and employer benefits, follow this structured priority ladder:
+1. Step 1: Employer 401(k) / 403(b) Match
+   - Contribute up to the exact percentage required to capture 100% of the employer match (e.g. 50% match on first 6% contributed).
+   - This represents an immediate, risk-free 50% to 100% return on invested capital. Never leave matching funds unclaimed.
+2. Step 2: High-Interest Debt Liquidation
+   - Eliminate all debt carrying an interest rate >= 7%-8% (credit cards, personal loans, high-rate auto loans).
+3. Step 3: Complete Emergency Reserve
+   - Solidify 3 to 6 months of essential living expenses in an HYSA.
+4. Step 4: Health Savings Account (HSA)
+   - If enrolled in a High Deductible Health Plan (HDHP), max out the HSA.
+   - HSA is triple tax-advantaged: contributions are tax-deductible, growth is tax-free, and qualified medical withdrawals are tax-free.
+5. Step 5: Roth IRA / Traditional IRA
+   - Maximize annual personal retirement contributions. Roth IRA offers tax-free growth and tax-free qualified withdrawals in retirement.
+6. Step 6: Max Remaining Workplace 401(k) / Taxable Brokerage Accounts
+   - Fill remaining workplace retirement plan space up to annual limits, then deploy excess funds into broad-market index ETFs in taxable brokerage accounts.
+
+## Core Asset Allocation Principles
+- Broad-Market Low-Cost Index Funds:
+  - Investing in total market index funds (e.g. S&P 500 or Total US Stock Market paired with Total International) drastically reduces fees (expense ratios < 0.05%) and outperforms 85%+ of actively managed funds over a 15-year horizon.
+- Dollar-Cost Averaging (DCA):
+  - Consistently investing a fixed dollar amount at regular intervals (such as every biweekly paycheck) removes emotional market-timing risks.
+- Rule of Thumb for Stock vs Bond Split:
+  - Equity Allocation % = 110 (or 120) - Current Age.
+  - For example, a 30-year-old: 120 - 30 = 90% Equities / Stocks, 10% Fixed Income / Bonds.
+

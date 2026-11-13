@@ -1,0 +1,22 @@
+# FINANCIAL KNOWLEDGE BASE: BUDGETING FRAMEWORKS & RULES
+
+## The 50/30/20 Budgeting Rule
+The 50/30/20 rule is a foundational personal finance guideline created by Senator Elizabeth Warren and Amelia Warren Tyagi:
+- 50% Needs: Essential living expenses required to survive and maintain basic employment. Includes housing (rent or mortgage, property tax), basic utilities (water, electricity, gas, internet), essential groceries, minimum debt payments, health insurance, and basic transportation. Housing costs alone should ideally never exceed 28% to 30% of gross monthly income.
+- 30% Wants: Discretionary expenses that enhance lifestyle but are not strictly necessary. Includes dining out, entertainment, streaming subscriptions, vacations, hobby gear, shopping for non-essential clothing, and luxury upgrades.
+- 20% Savings & Debt Repayment: Financial progress allocation. Includes emergency fund contributions, extra principal debt payments beyond minimums, retirement accounts (401k, IRA), and brokerage investments.
+
+## Zero-Based Budgeting (ZBB)
+Zero-Based Budgeting assigns every single dollar of monthly income a specific job before the month begins:
+Income - (Expenses + Savings + Debt Paydown) = $0.
+If $5,000 comes in, all $5,000 is intentionally allocated across fixed expenses, flexible spending, sinking funds, and investment accounts. Any surplus is directed toward high-priority financial goals rather than lingering in a checking account where it might leak into mindless spending.
+
+## Pay-Yourself-First (Reverse Budgeting)
+In reverse budgeting, the user automates savings and investment contributions on payday before paying bills or spending discretionary cash:
+1. Automated transfer to 401k / IRA / High Yield Savings on salary arrival.
+2. Fixed mandatory bills paid.
+3. Whatever balance remains can be spent guilt-free on lifestyle and entertainment.
+
+## Sinking Funds for Irregular Expenses
+A sinking fund is money set aside incrementally every month for known, infrequent expenses (such as car insurance renewals, holiday gifts, home maintenance, annual subscriptions). Sinking funds prevent irregular expenses from derailing the monthly budget or forcing high-interest credit card borrowing.
+

@@ -1,0 +1,42 @@
+date,description,amount,type,balance
+2024-01-01,Acme Corp Payroll Direct Deposit,3500.00,credit,6500.00
+2024-01-02,Apex Property Management Rent,1450.00,debit,5050.00
+2024-01-03,Con Edison Electric & Gas,94.20,debit,4955.80
+2024-01-04,Whole Foods Market,134.80,debit,4821.00
+2024-01-05,Shell Oil Gas Station,48.50,debit,4772.50
+2024-01-07,Netflix Subscription,15.49,debit,4757.01
+2024-01-08,Starbucks Coffee,6.75,debit,4750.26
+2024-01-09,CVS Pharmacy Health,32.40,debit,4717.86
+2024-01-10,Amazon.com Online Order,64.20,debit,4653.66
+2024-01-12,Trader Joe's Groceries,82.40,debit,4571.26
+2024-01-14,Uber Trip Transportation,24.50,debit,4546.76
+2024-01-15,Acme Corp Payroll Direct Deposit,3500.00,credit,8046.76
+2024-01-16,Vanguard Index Fund Investment,500.00,debit,7546.76
+2024-01-17,Verizon Fios Fiber Internet,69.99,debit,7476.77
+2024-01-18,Chipotle Mexican Grill,18.25,debit,7458.52
+2024-01-20,Target Store Retail,92.15,debit,7366.37
+2024-01-22,Spotify Premium,11.99,debit,7354.38
+2024-01-24,Chevron Gas Station,45.00,debit,7309.38
+2024-01-26,Bella Italia Ristorante,88.40,debit,7220.98
+2024-01-28,Gym Fitness Membership,45.00,debit,7175.98
+2024-01-30,Safeway Supermarket,112.60,debit,7063.38
+2024-02-01,Acme Corp Payroll Direct Deposit,3500.00,credit,10563.38
+2024-02-02,Apex Property Management Rent,1450.00,debit,9113.38
+2024-02-03,Con Edison Electric & Gas,102.50,debit,9010.88
+2024-02-05,Whole Foods Market,145.20,debit,8865.68
+2024-02-06,Shell Oil Gas Station,51.00,debit,8814.68
+2024-02-07,Netflix Subscription,15.49,debit,8799.19
+2024-02-09,Best Buy Electronics,149.99,debit,8649.20
+2024-02-11,Trader Joe's Groceries,91.30,debit,8557.90
+2024-02-14,Valentine Dining Steakhouse,135.00,debit,8422.90
+2024-02-15,Acme Corp Payroll Direct Deposit,3500.00,credit,11922.90
+2024-02-16,Vanguard Index Fund Investment,500.00,debit,11422.90
+2024-02-17,Verizon Fios Fiber Internet,69.99,debit,11352.91
+2024-02-19,Starbucks Coffee,7.20,debit,11345.71
+2024-02-21,Uber Trip Transportation,28.40,debit,11317.31
+2024-02-22,Spotify Premium,11.99,debit,11305.32
+2024-02-24,Costco Wholesale Groceries,210.40,debit,11094.92
+2024-02-26,Amazon.com Online Order,42.80,debit,11052.12
+2024-02-27,Quest Diagnostics Lab Medical,55.00,debit,10997.12
+2024-02-28,Gym Fitness Membership,45.00,debit,10952.12
+
